@@ -1,9 +1,9 @@
 import React from 'react'
 
 const Brand = () => {
-    return (
-        <div>Brand</div>
-    )
+  return (
+    <div>Brand</div>
+  )
 }
 
 export default Brand
